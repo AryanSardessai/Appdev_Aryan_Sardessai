@@ -1,0 +1,30 @@
+name: counter_app
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you intend to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0' # Adjust to your Flutter SDK version
+
+dependencies:
+  flutter:
+    sdk: flutter   # This is a dependency on the Flutter SDK itself
+
+  # flutter_localizations: # Example of another Flutter SDK sourced dependency
+  #   sdk: flutter
+
+  # Add other packages (like provider) HERE, at the same indentation level
+  # as 'flutter:', but NOT nested inside it.
+  provider: ^6.1.2  # Use the latest version from pub.dev
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # ... other flutter specific configurations like assets, fonts etc.
