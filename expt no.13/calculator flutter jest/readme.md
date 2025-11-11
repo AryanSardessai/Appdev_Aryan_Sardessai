@@ -1,1 +1,1 @@
-this folder shows calculator.
+this folder shows calculator unit testing.
