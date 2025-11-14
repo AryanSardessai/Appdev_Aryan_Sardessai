@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "473658524092",
+    "project_id": "mini-project-4ec21",
+    "storage_bucket": "mini-project-4ec21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473658524092:android:247c5ebf2852c3e787abb9",
+        "android_client_info": {
+          "package_name": "com.example.yoga_app_clean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473658524092-e0s3sjhci76etrcr9rbl0eaaujkprt33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AxC263xj3snZ027HMsr4scarT7A9kcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473658524092-e0s3sjhci76etrcr9rbl0eaaujkprt33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473658524092-pjrkv9df5571tq5m0ef0j0rvmbhnfueg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yogaPoseApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473658524092:android:466722ab086de84f87abb9",
+        "android_client_info": {
+          "package_name": "com.example.yoga_pose_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473658524092-kp0qnkf9rrdt3sg6et9ok3apmg6mkr35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yoga_pose_app",
+            "certificate_hash": "39ad753b999259ed3cccbd8532f87ab6355c1d4a"
+          }
+        },
+        {
+          "client_id": "473658524092-e0s3sjhci76etrcr9rbl0eaaujkprt33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AxC263xj3snZ027HMsr4scarT7A9kcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473658524092-e0s3sjhci76etrcr9rbl0eaaujkprt33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473658524092-pjrkv9df5571tq5m0ef0j0rvmbhnfueg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yogaPoseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
