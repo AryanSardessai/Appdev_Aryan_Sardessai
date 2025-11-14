@@ -1,0 +1,31 @@
+name: yoga_app_clean
+description: Yoga poses app with Firebase Auth + Google + Phone + API
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.4.4
+
+  # Google Sign-In
+  google_sign_in: ^6.2.1
+
+  # HTTP for Yoga API
+  http: ^1.2.2
+
+  # Local storage for favourites
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
